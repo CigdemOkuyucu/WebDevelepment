@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,3 +45,14 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+=======
+# Solutions
+
+These are the solutions for the exercises in the end of the reader [Ch3Unit1A.md](https://github.com/hogeschool/webdev-semester/blob/main/24-25/Contents/Ch3Unit1A.md).
+
+
+## Exercises
+1. Change the registration form component to reset the input boxes to their default value as soon as the submit button is pressed.
+2. Change the registration form component to show a message when a new person is submitted. The text is cleared whenever the user goes back to the homepage or he starts typing in any of the input boxes.
+3. Change the overview to support an edit mode. The overview will have a button to toggle between view and edit mode. When in edit mode the overview of people has an extra X button to remove a people from the in-memory storage.
+>>>>>>> Stashed changes
