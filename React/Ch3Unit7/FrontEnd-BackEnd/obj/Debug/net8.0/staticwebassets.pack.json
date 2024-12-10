@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/cigdem/Desktop/Francesco-React/FrontEnd-BackEnd/obj/Debug/net8.0/scopedcss/projectbundle/FrontEnd-BackEnd.bundle.scp.css",
+      "PackagePath": "staticwebassets/FrontEnd-BackEnd.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/cigdem/Desktop/Francesco-React/FrontEnd-BackEnd/wwwroot/spa.bundle.js",
+      "PackagePath": "staticwebassets/spa.bundle.js"
+    },
+    {
+      "Id": "/Users/cigdem/Desktop/Francesco-React/FrontEnd-BackEnd/wwwroot/spa.bundle.js.map",
+      "PackagePath": "staticwebassets/spa.bundle.js.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.FrontEnd-BackEnd.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.FrontEnd-BackEnd.props",
+      "PackagePath": "build\\FrontEnd-BackEnd.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.FrontEnd-BackEnd.props",
+      "PackagePath": "buildMultiTargeting\\FrontEnd-BackEnd.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.FrontEnd-BackEnd.props",
+      "PackagePath": "buildTransitive\\FrontEnd-BackEnd.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
